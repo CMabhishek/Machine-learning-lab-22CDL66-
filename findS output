@@ -47,28 +47,3 @@ For training instance no: 17  the hypothesis is  ['Sunny', 'Warm', 'Normal']
 For training instance no: 18  the hypothesis is  ['Sunny', 'Warm', 'Normal']
 For training instance no: 19  the hypothesis is  ['Sunny', 'Warm', 'Normal']
 The maximally specific hypothesis is  ['Sunny', 'Warm', 'Normal']
-
-
-'''''dataset'''''
-
-Sunny,Warm,Normal,Strong,Warm,Same,Yes
-Sunny,Warm,High,Strong,Warm,Same,Yes
-Rainy,Cold,High,Strong,Warm,Change,No
-Sunny,Warm,High,Strong,Cool,Change,Yes
-Sunny,Warm,Normal,Strong,Warm,Same,Yes
-Sunny,Warm,High,Strong,Warm,Same,Yes
-Rainy,Cold,High,Strong,Warm,Change,No
-Sunny,Warm,High,Strong,Cool,Change,Yes
-Sunny,Warm,Normal,Strong,Warm,Same,Yes
-Sunny,Warm,High,Strong,Warm,Same,Yes
-Rainy,Cold,High,Strong,Warm,Change,No
-Sunny,Warm,High,Strong,Cool,Change,Yes
-Sunny,Warm,Normal,Strong,Warm,Same,Yes
-Sunny,Warm,High,Strong,Warm,Same,Yes
-Rainy,Cold,High,Strong,Warm,Change,No
-Sunny,Warm,High,Strong,Cool,Change,Yes
-Sunny,Warm,Normal,Strong,Warm,Same,Yes
-Sunny,Warm,High,Strong,Warm,Same,Yes
-Rainy,Cold,High,Strong,Warm,Change,No
-Sunny,Warm,High,Strong,Cool,Change,Yes
-
